@@ -1,8 +1,8 @@
 {
-  "name": "cli-crypto-charts",
+  "name": "gdax-crypto-dash",
   "version": "1.0.0",
   "description": "coincell Terminal testapp",
-  "main": "cryptocharts.js",
+  "main": "gdax.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
